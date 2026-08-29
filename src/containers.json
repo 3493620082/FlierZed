@@ -1,0 +1,202 @@
+[
+    {
+        "name": "家用厨房橱柜",
+        "ID": "KitchenBottles"
+    },
+    {
+        "name": "家用冰箱",
+        "ID": "FreezerGeneric"
+    },
+    {
+        "name": "家用厨房悬挂橱柜",
+        "ID": "KitchenBaking"
+    },
+    {
+        "name": "家用厨房集成灶",
+        "ID": "StoveGeneric"
+    },
+    {
+        "name": "家庭客厅边桌(3层抽屉容器)",
+        "ID": "LivingRoomSideTable"
+    },
+    {
+        "name": "家庭卫生间悬挂橱柜",
+        "ID": "BathroomCabinet"
+    },
+    {
+        "name": "家庭客厅货架(像大书柜)",
+        "ID": "LivingRoomShelf"
+    },
+    {
+        "name": "家庭卧室床头柜",
+        "ID": "BedroomDresser"
+    },
+    {
+        "name": "家庭卧室边桌",
+        "ID": "BedroomSidetable"
+    },
+    {
+        "name": "烧烤架(方形)",
+        "ID": "BBQPropane"
+    },
+    {
+        "name": "烧烤架(球形)",
+        "ID": "BBQCharcoal"
+    },
+    {
+        "name": "仓库盒子(纸盒子)",
+        "ID": "Antiques"
+    },
+    {
+        "name": "仓库墙壁悬挂货架",
+        "ID": "GarageCarpentry"
+    },
+    {
+        "name": "垃圾桶",
+        "ID": "bin"
+    },
+    {
+        "name": "家庭卫生间橱柜",
+        "ID": "BathroomCounter"
+    },
+    {
+        "name": "家庭厨房微波炉",
+        "ID": "KitchenMicrowave"
+    },
+    {
+        "name": "家庭卧室货架(像大书柜)",
+        "ID": "ShelfGeneric"
+    },
+    {
+        "name": "随机杂物箱(小绿色塑料筐)",
+        "ID": "CrateRandomJunk"
+    },
+    {
+        "name": "板条箱",
+        "ID": "CrateConcrete"
+    },
+    {
+        "name": "通用型悬挂壁橱(家庭小仓库间墙上悬挂)",
+        "ID": "ClosetShelfGeneric"
+    },
+    {
+        "name": "箱式书架(也有可能是脏衣篓)",
+        "ID": "CrateBooks"
+    },
+    {
+        "name": "家庭卧室衣柜",
+        "ID": "WardrobeGeneric"
+    },
+    {
+        "name": "家庭卧室儿童衣柜",
+        "ID": "WardrobeChild"
+    },
+    {
+        "name": "刷新金属的板条箱",
+        "ID": "CrateMetalBars"
+    },
+    {
+        "name": "常规(汽车手套箱,汽车座位,汽车后备箱等)",
+        "ID": "Normal"
+    },
+    {
+        "name": "收银机",
+        "ID": "cashregister"
+    },
+    {
+        "name": "冷冻柜",
+        "ID": "freezer"
+    },
+    {
+        "name": "冰箱",
+        "ID": "FridgeGeneric"
+    },
+    {
+        "name": "工具板条箱",
+        "ID": "CrateTools"
+    },
+    {
+        "name": "其它容器(矮木箱等)",
+        "ID": "OtherGeneric"
+    },
+    {
+        "name": "露营装备货架(常见在渔具店)",
+        "ID": "CampingStoreGear"
+    },
+    {
+        "name": "渔具店冰箱",
+        "ID": "FishingStoreBait"
+    },
+    {
+        "name": "大型垃圾箱",
+        "ID": "dumpster"
+    },
+    {
+        "name": "儿童卧室边桌",
+        "ID": "BedroomSidetableChild"
+    },
+    {
+        "name": "常见客厅大货/书架",
+        "ID": "Antiques"
+    },
+    {
+        "name": "书店书架",
+        "ID": "BookstoreArt"
+    },
+    {
+        "name": "书店杂志书架",
+        "ID": "BookstoreMisc"
+    },
+    {
+        "name": "书店户外书架",
+        "ID": "BookstoreOutdoors"
+    },
+    {
+        "name": "书店农业书架",
+        "ID": "BookstoreFarming"
+    },
+    {
+        "name": "书店缝纫书架",
+        "ID": "BookstoreFashion"
+    },
+    {
+        "name": "书店技能书架",
+        "ID": "BookstoreCrafts"
+    },
+    {
+        "name": "书店汽修书架",
+        "ID": "BookstoreAutomotive"
+    },
+    {
+        "name": "加油站杂志架",
+        "ID": "MagazineRackMixed"
+    },
+    {
+        "name": "加油站新闻架",
+        "ID": "MagazineRackNewspaper"
+    },
+    {
+        "name": "警局橱柜",
+        "ID": "OfficeCounter"
+    },
+    {
+        "name": "警局档案室档案柜",
+        "ID": "PoliceFilingCabinet"
+    },
+    {
+        "name": "警局档案室证物柜",
+        "ID": "PoliceEvidence"
+    },
+    {
+        "name": "警局档案室文件箱",
+        "ID": "PoliceFileBox"
+    },
+    {
+        "name": "警局警察办公桌",
+        "ID": "PoliceDesk"
+    },
+    {
+        "name": "警局局长办公桌",
+        "ID": "PoliceCaptainDesk"
+    }
+]
